@@ -3,8 +3,9 @@
 ## General image classification
 
 ### Paper
-[SAA](./SAA.pdf)
-[MIFN](./journal_MIFN.pdf)
+[SAA](./SAA.pdf) (PRCV2023)
+
+[MIFN](./journal_MIFN.pdf) (Image and Vision Computing)
 
 ### Environment
 This code requires Pytorch 1.10.0 and torchvision 0.11.0 or higher with cuda support.
