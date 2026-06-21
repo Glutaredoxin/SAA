@@ -3,8 +3,8 @@
 ## General image classification
 
 ### Paper
-[SAA]()
-[MIFN]()
+[SAA](./SAA.pdf)
+[MIFN](./journal_MIFN.pdf)
 
 ### Environment
 This code requires Pytorch 1.10.0 and torchvision 0.11.0 or higher with cuda support.
