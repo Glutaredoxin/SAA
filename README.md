@@ -2,6 +2,10 @@
 
 ## General image classification
 
+### Paper
+[SAA]()
+[MIFN]()
+
 ### Environment
 This code requires Pytorch 1.10.0 and torchvision 0.11.0 or higher with cuda support.
 ***
